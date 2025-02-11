@@ -15,7 +15,8 @@ bool ledState = false;
 
 // Access Point settings
 const char* serverName = "r04m1ng.l1br4ry";  // DNS name for captive portal
-const char* AP_SSID = "PR0J3K7_B00KM4RK";  // Name of the WiFi network
+//const char* AP_SSID = "PR0J3K7_B00KM4RK";  // Name of the WiFi network
+const char* AP_SSID_BASE = "PR0J3K7_B00KM4RK_";  // Base name for SSID
 String AP_SSID;  // Full name with number
 IPAddress apIP(192, 168, 4, 1);        // IP address of the NodeMCU in AP mode
 const byte DNS_PORT = 53;              // DNS server port
