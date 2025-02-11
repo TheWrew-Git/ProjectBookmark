@@ -1,0 +1,9 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+*.bin
+
+# Development
+.vscode/
+.DS_Store
