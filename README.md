@@ -11,11 +11,11 @@ Required wiring/jumpers
 
 Wiring Configuration
 NodeMCU -> SD Card Module
-D5 (GPIO14) -> SCK
+D5 (GPIO14) -> SCK / CLK
 D6 (GPIO12) -> MISO
 D7 (GPIO13) -> MOSI
 D8 (GPIO15) -> CS
-3.3V -> VCC
+3.3V -> VCC / 3.3V
 GND -> GND
 
 Features
