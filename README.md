@@ -2,12 +2,12 @@ Project Overview
 
 A portable file-sharing system built on NodeMCU ESP8266 that creates a wireless access point and serves a web interface for accessing digital documents and hosting discussions.
 
-Hardware Requirements
-NodeMCU ESP8266
-Micro SD Card Module
-Micro SD Card (Max 32GB)
-Power source (USB power bank or similar)
-Required wiring/jumpers
+## Hardware Requirements:
+* NodeMCU ESP8266 (ESP12) OR ESP32S3
+* Micro SD Card Module
+* Micro SD Card (Max 32GB)
+* Power source (USB power bank or similar)
+* Required wiring/jumpers
 
 ## Wiring Configuration
 **NodeMCU -> SD Card Module**
