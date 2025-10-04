@@ -1,8 +1,8 @@
 # Arduino
 *.hex
-*.elf
+#*.elf
 *.eep
-*.bin
+#*.bin
 
 # Development
 .vscode/
