@@ -18,7 +18,7 @@ Required wiring/jumpers
 * 3.3V -> VCC / 3.3V
 * GND -> GND
 
-##Features
+## Features
 
 **Wireless Access Point**
 * No password required
