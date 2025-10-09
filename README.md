@@ -154,57 +154,41 @@ If not, navigate to 192.168.4.1
 
 1\. Adding Files:
 
-Power down device
-
-Insert SD card into computer
-
-Copy files to the appropriate folder within the "/Alexandria" directory: "/Alexandria/A" through "/Alexandria/Z" folders based on first letter "/Alexandria/0-9" for files starting with numbers
-
-"/Alexandria/#@" for files starting with special characters
-
-Reinsert SD card into module
+* Power down device
+* Insert SD card into computer
+* Copy files to the appropriate folder within the "/Alexandria" directory: "/Alexandria/A" through "/Alexandria/Z" folders based on first letter "/Alexandria/0-9" for files starting with numbers
+* "/Alexandria/#@" for files starting with special characters
+* Reinsert SD card into module
 
 2\. Accessing Files:
 
-Navigate to "74K3-4-F1L3"
-
-Files are grouped by first letter
-
-Click letter groups to expand/collapse
-
-Click file name to download
+* Navigate to "74K3-4-F1L3"
+* Files are grouped by first letter
+* Click letter groups to expand/collapse
+* Click file name to download
 
 3\. Uploading Files:
 
-Navigate to "L34V3-4-F1L3"
-
-Click "Choose File"
-
-Select File
-
-Click "Upload"
+* Navigate to "L34V3-4-F1L3"
+* Click "Choose File"
+* Select File
+* Click "Upload"
 
 **Forum Usage**
 
 1\. Creating Threads:
 
-Click "Enter Forum"
-
-Select "CREATE NEW THREAD"
-
-Enter handle and content
-
-Submit to create thread
+* Click "Enter Forum"
+* Select "CREATE NEW THREAD"
+* Enter handle and content
+* Submit to create thread
 
 2\. Posting Replies:
 
-Open desired thread
-
-Scroll to bottom
-
-Enter handle and reply
-
-Posts appear immediately
+* Open desired thread
+* Scroll to bottom
+* Enter handle and reply
+* Posts appear immediately
 
 **Troubleshooting Guide**
 
@@ -214,39 +198,29 @@ Posts appear immediately
 
 Verify wiring connections
 
-Check SD card format (must be FAT32)
-
-Try a different CS pin configuration
-
-Ensure the SD card is fully inserted
+* Check SD card format (must be FAT32)
+* Try a different CS pin configuration
+* Ensure the SD card is fully inserted
 
 2\. WiFi Network Not Visible
 
-Check power supply stability
-
-Verify AP\_SSID configuration
-
-Reset device
-
-Check antenna connection
+* Check power supply stability
+* Verify AP\_SSID configuration
+* Reset device
+* Check antenna connection
 
 3\. Files Not Displaying
 
-Verify file formats are supported
-
-Check file naming conventions
-
-Ensure files are in the correct directory Verify structure and SD card permissions
+* Verify file formats are supported
+* Check file naming conventions
+* Ensure files are in the correct directory Verify structure and SD card permissions
 
 4\. Forum Posts Not Saving
 
-Check SD card write permissions
-
-Verify available storage space
-
-Ensure proper JSON formatting
-
-Check file path accessibility
+* Check SD card write permissions
+* Verify available storage space
+* Ensure proper JSON formattin
+* Check file path accessibility
 
 **Customization Options**
 
