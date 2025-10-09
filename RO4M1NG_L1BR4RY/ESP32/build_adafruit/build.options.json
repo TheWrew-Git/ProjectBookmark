@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32s3",
+  "hardwareFolders": "/home/wrew/.arduino15/packages",
+  "otherLibrariesFolders": "/home/wrew/Arduino/libraries",
+  "sketchLocation": "/home/wrew/code/ProjectBookmark/RO4M1NG_L1BR4RY/firmware/adafruit/RO4M1NG_L1BR4RY_adafruit"
+}
